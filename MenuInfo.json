@@ -1,6 +1,6 @@
 [
     {"judul": "50% Needs", "contoh": "Housing, Health Care", "image": "housing.jpg"},
     {"judul": "30% Wants", "contoh": "Personal Care, Entertainment", "image": "wants.jpg"},
-    {"judul": "20% Savings", "contoh": "Emergencies, Savings", "image": "savings.jpg"},
+    {"judul": "20% Savings", "contoh": "Emergencies, Savings", "image": "savings.jpg"}
    
 ]
